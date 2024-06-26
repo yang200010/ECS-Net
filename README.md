@@ -1,6 +1,6 @@
 # ECS-Net
 
-**ECS-Net software** is the Pytorch implementation for high throughput quantification of brain extracellular space segmentation. This repository is developed based on the under review paper [**ECS-Net: Extracellular space segmentation with shape-aware and contrastive loss by using cryoelectron microscopy imaging**](https://).<br>
+**ECS-Net software** is the Pytorch implementation for high throughput quantification of brain extracellular space segmentation. This repository is developed based on the under review paper [**ECS-Net: Extracellular space segmentation with shape-aware and contrastive loss by using cryo-electron microscopy imaging**](https://).<br>
 
 Author: Chuqiao Yang<sup>1,2†</sup>, Jiayi Xie<sup>3†</sup>, Xinrui Huang<sup>4†</sup>,Hanbo Tan<sup>1,2</sup>, Qingyuan He<sup>5</sup>,Junhao Yan<sup>6</sup>, Hongfeng Li<sup>1</sup>, Qirun Li<sup>1</sup>, Guangkun Nie<sup>1</sup>, Wanyi Fu<sup>7</sup>, Zhaoheng Xie<sup>1</sup>,Yao Sui <sup>1</sup>,Yanye Lu<sup>1*</sup> and Hongbin Han<sup>1,2,5,8*</sup>
 
