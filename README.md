@@ -73,7 +73,10 @@ Please refer to the official website: https://www.thermofisher.cn/cn/en/home/ele
 
 ![Results](figures/1.png)
 <!-- <br>
-<p align="center"><img width="800" src="figures/1.png"></p> -->
+<p align="center"><img width="400" src="figures/1.png"></p> -->
+![Results](figures/2.png)
+<!-- <br>
+<p align="center"><img width="400" src="figures/2.png"></p> -->
 
 ## License
 This repository is released under the (LICENSE) License (refer to the LICENSE file for details).
