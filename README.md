@@ -84,6 +84,14 @@ This repository is released under the (LICENSE) License (refer to the LICENSE fi
 ## Citation
 If you find the code or dataset helpful in your resarch, please cite the following paper:
 ```
+Chuqiao Yang, Jiayi Xie, Xinrui Huang, Hanbo Tan, Qirun Li, Zeqing Tang, Xinlei Ma, Jiabin Lu, Qingyuan He, Wanyi Fu, Yixing Huang, Junhao Yan, Hongfeng Li, Zhaoheng Xie, Yao Sui, Yanye Lu, Hongbin Han,
+ECS-Net: Extracellular space segmentation with contrastive and shape-aware loss by using cryo-electron microscopy imaging,
+Expert Systems with Applications,
+Volume 270,
+2025,
+126370,
+ISSN 0957-4174,
+https://doi.org/10.1016/j.eswa.2024.126370.
 
 ```
 ## Supplementary statement
